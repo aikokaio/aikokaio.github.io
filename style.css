@@ -20,6 +20,7 @@
             text-align: center;
             background: url('https://media.giphy.com/media/h2lsfFIZhGuSFjGWY4/giphy.gif?cid=ecf05e47t1q0mizguy2bn6n47nxcljyfr17xo66saz2e59sa&ep=v1_gifs_related&rid=giphy.gif&ct=g') no-repeat center center fixed; /* Exemplo de GIF de fundo */
             background-size: cover;
+            font-family: 'MS Gothic', sans-serif;
         }
 
         .container {
