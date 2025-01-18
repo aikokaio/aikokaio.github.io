@@ -3,6 +3,12 @@
             cursor: url('miku_cursor1.gif'), auto;
             font-family: 'MS Gothic', cursive, sans-serif;
             scale: 98%;
+            @media only screen and (max-width:767px) {
+                @font-face {
+                    font-family: 'MS Gothic';
+                    src: url(MSGOTHIC.TTF);
+                }
+            }
 
         }
         body {
