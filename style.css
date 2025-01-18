@@ -5,6 +5,7 @@
         * {
             cursor: url('miku_cursor1.gif'), auto;
             font-family: "Didact Gothic", serif;
+            font-size: 84%;
             scale: 98%;
             @media only screen and (max-width:767px) {
                 font-family: 'Didact Gothic', serif;
