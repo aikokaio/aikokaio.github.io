@@ -1,14 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+
         /* Estilo geral */
+
         * {
             cursor: url('miku_cursor1.gif'), auto;
-            font-family: 'MS Gothic', cursive, sans-serif;
+            font-family: "Didact Gothic", serif;
             scale: 98%;
             @media only screen and (max-width:767px) {
-                @font-face {
-                    font-family: 'MS Gothic';
-                    src: url(MSGOTHIC.TTF);
-                }
-                font-family: 'MS Gothic', sans-serif;
+                font-family: 'Didact Gothic', serif;
             }
 
         }
